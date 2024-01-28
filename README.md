@@ -1,15 +1,12 @@
----
-title: Multimodal Deepfake Detection
-emoji: 🚀
-colorFrom: purple
-colorTo: pink
-sdk: gradio
-sdk_version: 3.37.0
-app_file: app.py
-pinned: false
----
+To Use First run 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+```cmd
+pip install -r requirements.txt
+
+```
+then download this model file and place it inside checkpoints folder 
+
+https://drive.google.com/file/d/1pITbNN0z_SdQlrS32sA7C-vhrCjF-rFD/view?usp=sharing
 
 ### Performing inference with the trained model.
 
